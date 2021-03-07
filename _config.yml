@@ -1,4 +1,4 @@
-title: My personal blog - Adam Neilson
+title: My personal blog - Adam Neilson TEST
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,7 +9,7 @@ baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
+author: Adam Neilson HANSEN # add your name
 author-pic: adam-face.jpg
 about-author: My name is Adam Neiolson. I’m a full-time adventure travel blogger and photographer who’s been OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
 
@@ -25,10 +25,10 @@ instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
-mailchimp: # Add your MailChimp form identifier.
+# mailchimp: # Add your MailChimp form identifier. Commented out by Jake
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+# discus_identifier: mr-brown # Add your discus identifier # Commented out by Jake
 
 # Tracker
 analytics: # Google Analytics

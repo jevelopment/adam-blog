@@ -1,4 +1,4 @@
-title: My personal blog - Adam Neilson TEST
+title: A forgotten astronauts log - Captains log continued
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,17 +9,18 @@ baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson HANSEN # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neiolson. I’m a full-time adventure travel blogger and photographer who’s been OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo
+author: The forgotten Astronaut # add your name
+author-pic: astronaut.jpg
+about-author: Came to Earth around 45 years ago. Spaceship crashed and was lost opon entering atmosphere. Lost contact to base. Am exiled on earth indefinate. Thus making the best of it. Still loggin here in case my findings can ever be send back to base. 
+
 
 # Contact links
 email: # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: # Add your Github handle
+twitter:  # Add your Twitter handle I THINK THESE HANDLES ALL GO INSIDE ' ...text ' ... quotes i guess they are called
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle

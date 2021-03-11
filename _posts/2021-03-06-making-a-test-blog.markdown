@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  I test editing a post 
-date:   2017-08-25 13:32:20 +0300
+title:  I test editing a post
+date: 2021-03-06 23:30:56 +0100
 description: This is a test desctiption
 img: testimg.jpg # Add image post (optional)
-tags: [Blog, Mountains]
-author: Adam Neilson # Add name author (optional)
+tags: [Blog,testblog]
+author: Test Astronaut # Add name author (optional)
 ---
 text inserted as a test""!!
 

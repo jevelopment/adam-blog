@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The new world
-date: 2022-2-11 13:25:20 +0300
+date: 2021-10-09 13:25:20 +0300
 description: This is a test after I forgot how to make post on this jekyll stuff.
 img: O8nSK0.jpg # Add image post (optional)
 tags: [Blog, Meditation]
